@@ -1,2 +1,3 @@
 # os_paging_simulation_example
-here i am trying to simulate how cpu reads process from secondary memory via main memory using paging.
+
+Here i am trying to simulate how cpu reads process from main memory by using a process table.
